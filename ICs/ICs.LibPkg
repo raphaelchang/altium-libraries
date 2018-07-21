@@ -55,6 +55,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SUJDDMUN
 
 [Document2]
+DocumentPath=ICs-LinearRegulators.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LTFDCYHR
+
+[Document3]
 DocumentPath=ICs-CurrentSenseAmplifiers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDNJFRWS
 
-[Document3]
+[Document4]
 DocumentPath=ICs-MOSFETDrivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDRMMRGH
 
-[Document4]
+[Document5]
 DocumentPath=ICs-RS485Transceivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPPADNHQ
 
-[Document5]
+[Document6]
 DocumentPath=ICs-DigitalPotentiometers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OBMUBAVK
 
-[Document6]
+[Document7]
 DocumentPath=ICs-BatteryStackMonitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NWEIQPRU
 
-[Document7]
+[Document8]
 DocumentPath=ICs-RFTransceivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOWTKDMD
 
-[Document8]
+[Document9]
 DocumentPath=ICs-Microcontrollers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VHGLXJFG
 
-[Document9]
+[Document10]
 DocumentPath=ICs-RTCCs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GEFOTXXQ
 
-[Document10]
+[Document11]
 DocumentPath=ICs-PowerMonitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVTCUYBB
 
-[Document11]
+[Document12]
 DocumentPath=ICs-DigitalAnalogConverters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RRKFCBJJ
 
-[Document12]
+[Document13]
 DocumentPath=ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TXFBXXSY
 
-[Document13]
+[Document14]
 DocumentPath=ICs-FlashMemory.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CNHNNDVQ
 
-[Document14]
+[Document15]
 DocumentPath=ICs-LEDDrivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSGQTKHG
 
-[Document15]
+[Document16]
 DocumentPath=ICs-MotorDrivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYPJEKJA
 
-[Document16]
+[Document17]
 DocumentPath=ICs-Sensors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NOMEARUQ
 
-[Document17]
+[Document18]
 DocumentPath=ICs-WirelessPower.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MXFCBESN
 
-[Document18]
+[Document19]
 DocumentPath=ICs-Chargers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSVLDQJA
 
-[Document19]
+[Document20]
 DocumentPath=ICs-GasGauges.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXYMLJSK
 
-[Document20]
+[Document21]
 DocumentPath=ICs-Memory.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIQJRWFN
 
-[Document21]
+[Document22]
 DocumentPath=ICs-Optocouplers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BEIOLOOX
 
-[Document22]
+[Document23]
 DocumentPath=ICs-Serial.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMYAGSGN
 
-[Document23]
+[Document24]
 DocumentPath=ICs-CANTransceivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -426,9 +443,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GAWQSJDO
+DocumentUniqueId=NQETGLDA
 
-[Document24]
+[Document25]
 DocumentPath=ICs-Microprocessors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCJVHCEA
 
-[Document25]
+[Document26]
 DocumentPath=ICs-RFModules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NALWKJRN
 
-[Document26]
+[Document27]
 DocumentPath=ICs-USBInterface.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNURHKGP
 
-[Document27]
+[Document28]
 DocumentPath=ICs-PowerSwitches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJJFVRIL
 
-[Document28]
+[Document29]
 DocumentPath=ICs-SupervisoryCircuits.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -512,6 +529,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MYCJAEWT
+
+[Document30]
+DocumentPath=ICs-CameraInterfaces.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DYFMOTLY
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1215,6 +1249,11 @@ Type108=1
 Type109=1
 Type110=1
 Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -1279,6 +1318,9 @@ Type59=1
 Type60=1
 Type61=1
 Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1402,6 +1444,7 @@ Type118=3
 Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
