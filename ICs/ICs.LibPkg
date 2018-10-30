@@ -443,7 +443,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NQETGLDA
+DocumentUniqueId=EQHDQBYC
 
 [Document25]
 DocumentPath=ICs-Microprocessors.SchLib
@@ -546,6 +546,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DYFMOTLY
+
+[Document31]
+DocumentPath=ICs-AnalogDigitalConverters.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NTOGSNET
 
 [OutputGroup1]
 Name=Netlist Outputs
