@@ -1,0 +1,3 @@
+[submodule "Proprietary"]
+	path = Proprietary
+	url = https://github.com/raphaelchang/altium-libraries-proprietary
